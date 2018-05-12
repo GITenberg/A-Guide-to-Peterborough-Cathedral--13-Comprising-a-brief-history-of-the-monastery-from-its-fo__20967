@@ -1,0 +1,36 @@
+_repo: A-Guide-to-Peterborough-Cathedral--13-Comprising-a-brief-history-of-the-monastery-from-its-fo__20967
+_version: 0.1.0
+alternative_title: The New Guide to Peterborough Cathedral
+covers:
+- cover_type: archival
+  image_path: 20967-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Phillips, George S. (George Searle)
+    aliases:
+    - Phillips, George Searle
+    - Searle, January
+    birthdate: 1815
+    deathdate: 1889
+    gutenberg_agent_id: '9632'
+    url: http://www.gutenberg.org/2009/agents/9632
+description: ''
+gutenberg_bookshelf: Architecture
+gutenberg_issued: '2007-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20967'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peterborough Cathedral -- History'
+- !lcsh 'Peterborough Cathedral -- Guidebooks'
+- !lcc 'DA'
+- !lcc 'NA'
+title: "A Guide to Peterborough Cathedral\r\nComprising a brief history of the monastery\
+  \ from its foundation to the present time, with a descriptive account of its architectural\
+  \ peculiarities and recent improvements; compiled from the works of Gunton, Britton,\
+  \ and original & authentic documents"
+url: http://www.gutenberg.org/ebooks/20967
