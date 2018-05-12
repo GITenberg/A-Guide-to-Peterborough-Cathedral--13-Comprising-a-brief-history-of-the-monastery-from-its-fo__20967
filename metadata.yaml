@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '9632'
     url: http://www.gutenberg.org/2009/agents/9632
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20967#A-Guide-to-Peterborough-Cathedral--13-Comprising-a-brief-history-of-the-monastery-from-its-fo_
 gutenberg_bookshelf: Architecture
 gutenberg_issued: '2007-04-03'
 gutenberg_type: Text
